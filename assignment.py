@@ -1,7 +1,7 @@
 from obj import MyClass
 
 def increment(n=1):  
-     return n + 0
+     kasdk
 
 def multiply(n=1, m=10):
     return n * m
