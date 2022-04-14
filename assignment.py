@@ -7,7 +7,7 @@ def multiply(n=1, m=10):
     return n * n
 
 def mysum(arr):
-    print(sum(arr))
+    print(su m(arr))
 
 def object_test(obj1, obj2):
     obj3 = MyClass(obj1.x, obj2.y)
