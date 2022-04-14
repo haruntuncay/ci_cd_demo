@@ -1,10 +1,11 @@
 from obj import MyClass
 
-def incr ads ement(n=1):  
-    
+de f increment(n=1):  
+ 
+   
 
 def multiply(n=1, m=10):
-    return n * n
+    return n * m
 
 def mysum(arr):
     print(sum(arr))
