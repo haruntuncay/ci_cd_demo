@@ -1,7 +1,7 @@
 from obj import MyClass
 
-def  da da increment(n=1):  
-    
+def increment(n=1):  
+   
 
 def multiply(n=1, m=10):
     return n * n
