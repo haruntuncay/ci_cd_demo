@@ -1,8 +1,9 @@
 from obj import MyClass
 
-def incredasd ment(n=1):  
-asd das 
-def multiply(n=1, m=10):
+def increment(n=1):  
+    return n + 1 
+
+def ds multiply(n=1, m=10):
     return n * n
 
 def mysum(arr):
