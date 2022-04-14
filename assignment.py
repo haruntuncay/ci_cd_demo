@@ -1,8 +1,7 @@
 from obj import MyClass
 
-def increment(n=1):  
-    print(n+1)
-    print(
+def incr ads ement(n=1):  
+    
 
 def multiply(n=1, m=10):
     return n * n
